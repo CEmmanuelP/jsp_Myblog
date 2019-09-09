@@ -1,0 +1,3 @@
+INDEX VERSION 1.131
+/Users/eugene/Documents/webboard/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/1543451362.index
+/BBS/src
